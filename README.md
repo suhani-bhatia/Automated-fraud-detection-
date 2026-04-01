@@ -103,4 +103,3 @@ The following dashboard visualizes key performance metrics including accuracy, e
 ## Author
 Suhani Bhatia
 
-## Project Structure
