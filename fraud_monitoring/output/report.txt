@@ -1,0 +1,21 @@
+FRAUD DETECTION MODEL MONITORING REPORT
+=======================================
+
+LATEST METRICS
+--------------
+Date: 2026-01-20
+Accuracy: 88.62%
+Error Rate: 11.38%
+Fraud Rate: 0.08%
+Average Confidence: 0.832
+Average Latency: 145.01 ms
+Average Drift Score: 0.0000
+Accuracy Change from Previous Day: -0.26%
+
+ALERT STATUS
+------------
+- Latency above threshold (140 ms)
+
+INTERPRETATION
+--------------
+This report monitors fraud detection model health using daily performance, fraud-rate, latency, and drift metrics. Alerts indicate possible degradation in model reliability or shifts in transaction behavior that may require investigation.
