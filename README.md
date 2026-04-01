@@ -74,6 +74,13 @@ The pipeline computes and tracks:
 4. **Visualization**
    - Load output into Tableau
    - Analyze trends and anomalies
+## Dashboard
+
+The following dashboard visualizes key performance metrics including accuracy, error rate, latency, and fraud trends.
+
+<img width="1000" height="794" alt="image" src="https://github.com/user-attachments/assets/5b6714c6-1ed7-4b09-ab83-c9aad4627621" />
+
+     
 
 ---
 
